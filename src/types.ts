@@ -253,6 +253,17 @@ export const PROJECTS: Project[]  = [
     mediaType: "image",
     techStack: ["Array Methods", "Time Management Logic", "Chatbot UI"]
   },
+{
+    id: "2024-1010",
+    title: "QazaqMind",
+    studentName: "Маратұлы Азамат",
+    grade: 10,
+    description: "Оқушылардың академиялық дамуы мен уақытын жоспарлауға арналған интеллектуалды тәлімгер.",
+    type: "website",
+    mediaUrl: "24.png",
+    mediaType: "image",
+    techStack: ["Array Methods", "Time Management Logic", "Chatbot UI"]
+  },
   {
     id: "2024-1011",
     title: "Kazakh Voice",
