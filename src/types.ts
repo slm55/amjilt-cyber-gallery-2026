@@ -18,8 +18,8 @@ export const PROJECTS: Project[]  = [
     grade: 7,
     description: 'Сызықтық алгебра заңдылықтарын SFML арқылы визуалды бейнелеу. Фигуралардың координаталарын матрицалық есептеулер арқылы бұру және масштабтау функцияларын қамтиды.',
     type: 'data-viz',
-    mediaUrl: 'edige.MOV',
-    mediaType: 'video',
+    mediaUrl: 'edige.PNG',
+    mediaType: 'image',
     techStack: ['C++', 'SFML', 'Math', 'Linear Algebra']
   },
   {
@@ -29,8 +29,8 @@ export const PROJECTS: Project[]  = [
     grade: 7,
     description: 'Киберпанк стиліндегі визуалды симуляция. Бөлшектер жүйесі (Particles) арқылы жаңбырдың түсуі және неонды жарықтардың шағылысуы модельденген.',
     type: 'animation',
-    mediaUrl: 'ali.MOV',
-    mediaType: 'video',
+    mediaUrl: 'ali.PNG',
+    mediaType: 'image',
     techStack: ['C++', 'SFML', 'Particles', 'Visual Effects']
   },
   {
@@ -40,8 +40,8 @@ export const PROJECTS: Project[]  = [
     grade: 7,
     description: 'Биологиялық ДНҚ спиралінің екі өлшемді моделі. Анимация арқылы спиральдың айналуын және оның құрылымдық өзгеру процестерін бейнелейді.',
     type: 'animation',
-    mediaUrl: 'Zere.MOV',
-    mediaType: 'video',
+    mediaUrl: 'zere.PNG',
+    mediaType: 'image',
     techStack: ['C++', 'SFML', 'Biology', 'Animation']
   },
   {
@@ -51,8 +51,8 @@ export const PROJECTS: Project[]  = [
     grade: 7,
     description: 'Пиксельдік физика негізінде жасалған интерактивті симулятор. Құм, су және тас бөлшектерінің гравитация әсерінен өзара әрекеттесуін модельдейді.',
     type: 'game',
-    mediaUrl: 'bek.MOV',
-    mediaType: 'video',
+    mediaUrl: 'bek.PNG',
+    mediaType: 'image',
     techStack: ['C++', 'SFML', 'Physics Engine', 'Interaction']
   },
   {
@@ -62,8 +62,8 @@ export const PROJECTS: Project[]  = [
     grade: 7,
     description: 'Нейрондық желідегі қабаттар мен нейрондарды графикалық бейнелеп, деректердің өңделуі мен сигналдың өтуін анимация арқылы көрсетеді.',
     type: 'data-viz',
-    mediaUrl: 'danial.MOV',
-    mediaType: 'video',
+    mediaUrl: 'danial.PNG',
+    mediaType: 'image',
     techStack: ['C++', 'SFML', 'AI Basics', 'Logic']
   },
   {
@@ -73,8 +73,8 @@ export const PROJECTS: Project[]  = [
     grade: 7,
     description: 'Кристалдық торлардың құрылымын зерттеу және атомдар арасындағы байланыстардың сыртқы күш түскендегі деформациясын модельдеу.',
     type: 'data-viz',
-    mediaUrl: 'nemat.MOV',
-    mediaType: 'video',
+    mediaUrl: 'nemat.PNG',
+    mediaType: 'image',
     techStack: ['C++', 'SFML', 'Physics', 'Materials Science']
   },
   {
@@ -84,8 +84,8 @@ export const PROJECTS: Project[]  = [
     grade: 7,
     description: 'Хаос теориясының негізгі элементі Лоренц аттракторын визуалдау. Бөлшектердің траекториясын есептеп, "Көбелек эффектісін" графикалық түрде көрсетеді.',
     type: 'data-viz',
-    mediaUrl: 'yasmin.MOV',
-    mediaType: 'video',
+    mediaUrl: 'yasmin.PNG',
+    mediaType: 'image',
     techStack: ['C++', 'SFML', 'Math', 'Chaos Theory']
   },
   {
@@ -95,8 +95,8 @@ export const PROJECTS: Project[]  = [
     grade: 7,
     description: 'Математикалық Фурье түрлендіруін графикалық бейнелеу. Күрделі тербелістердің жеке синусоидаларға ыдырау процесін көрсетеді.',
     type: 'data-viz',
-    mediaUrl: 'moldir.MOV', // Молдирмен біріктірілді, Аминаның файлы негіз ретінде қалды
-    mediaType: 'video',
+    mediaUrl: 'moldir.PNG', // Молдирмен біріктірілді, Аминаның файлы негіз ретінде қалды
+    mediaType: 'image',
     techStack: ['C++', 'SFML', 'Math', 'Wave Analysis']
   },
   {
@@ -106,8 +106,8 @@ export const PROJECTS: Project[]  = [
     grade: 7,
     description: 'Ғарыштағы қара құрдымның гравитациялық тартылысын модельдеу. Нысандардың орталыққа тартылу траекториясын және жойылуын бейнелейді.',
     type: 'animation',
-    mediaUrl: 'daulet.MOV',
-    mediaType: 'video',
+    mediaUrl: 'daulet.PNG',
+    mediaType: 'image',
     techStack: ['C++', 'SFML', 'Astrophysics', 'Space']
   },
   {
@@ -117,8 +117,8 @@ export const PROJECTS: Project[]  = [
     grade: 7,
     description: 'Нысандардың қара құрдымға қарай спираль бойымен қозғалуын және оқиғалар көжиегіндегі визуалды эффектілерді модельдейтін симулятор.',
     type: 'animation',
-    mediaUrl: 'amirzhan.MOV',
-    mediaType: 'video',
+    mediaUrl: 'amirzhan.PNG',
+    mediaType: 'image',
     techStack: ['C++', 'SFML', 'Space Physics', 'Logic']
   },
   {
